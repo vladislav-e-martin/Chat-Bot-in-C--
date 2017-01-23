@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Bot.cpp
+iostream
+-
+sstream
+-
+Bot.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Bot.h
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Bot.h
+string
+-
+vector
+-
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Lexeme.cpp
+iostream
+-
+Lexeme.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Lexeme.h
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Lexeme.h
+string
+-
+vector
+-
+map
+-
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/ResponseHandler.cpp
+iostream
+-
+locale
+-
+ctime
+-
+iomanip
+-
+ResponseHandler.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/ResponseHandler.h
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/ResponseHandler.h
+string
+-
+vector
+-
+
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/main.cpp
+algorithm
+-
+iostream
+-
+map
+-
+sstream
+-
+vector
+-
+Lexeme.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Lexeme.h
+Bot.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/Bot.h
+ResponseHandler.h
+C:/Users/vladi/ClionProjects/Weekend Marathon #1/ResponseHandler.h
+

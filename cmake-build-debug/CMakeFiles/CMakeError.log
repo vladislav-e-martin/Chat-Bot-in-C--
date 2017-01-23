@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_78fbf/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_78fbf.dir\build.make CMakeFiles/cmTC_78fbf.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/vladi/ClionProjects/Weekend Marathon\', needed by 'CMakeFiles/cmTC_78fbf.dir/feature_tests.c.obj'.  Stop.
+Makefile:125: recipe for target 'cmTC_78fbf/fast' failed
+mingw32-make.exe: *** [cmTC_78fbf/fast] Error 2
+
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_86276/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_86276.dir\build.make CMakeFiles/cmTC_86276.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/vladi/ClionProjects/Weekend Marathon #1/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/vladi/ClionProjects/Weekend Marathon\', needed by 'CMakeFiles/cmTC_86276.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:125: recipe for target 'cmTC_86276/fast' failed
+mingw32-make.exe: *** [cmTC_86276/fast] Error 2
+
+
+
